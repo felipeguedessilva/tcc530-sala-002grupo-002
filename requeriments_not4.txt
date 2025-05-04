@@ -18,6 +18,7 @@ appdirs==1.4.4
 archspec @ file:///croot/archspec_1709217642129/work
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///croot/argon2-cffi-bindings_1736182440035/work
+arm-mango==1.5.1
 arrow @ file:///croot/arrow_1728676284441/work
 astroid @ file:///croot/astroid_1736455921794/work
 astropy @ file:///croot/astropy_1738094400634/work
@@ -42,7 +43,7 @@ botocore @ file:///croot/botocore_1738226888291/work
 Bottleneck @ file:///croot/bottleneck_1731058641041/work
 Brotli @ file:///croot/brotli-split_1736182456865/work
 cachetools @ file:///croot/cachetools_1738224668060/work
-certifi @ file:///croot/certifi_1745939216646/work/certifi
+certifi==2023.11.17
 cffi @ file:///croot/cffi_1736182485317/work
 chardet @ file:///work/perseverance-python-buildout/croot/chardet_1698867756032/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
@@ -171,6 +172,7 @@ lmdb @ file:///croot/python-lmdb_1736540601428/work
 locket @ file:///work/perseverance-python-buildout/croot/locket_1698847555568/work
 lxml @ file:///croot/lxml_1737039601731/work
 lz4 @ file:///croot/lz4_1736366683208/work
+mango==0.2.3
 Markdown @ file:///work/perseverance-python-buildout/croot/markdown_1698870813381/work
 markdown-it-py @ file:///work/perseverance-python-buildout/croot/markdown-it-py_1698846045803/work
 MarkupSafe @ file:///croot/markupsafe_1738584038848/work
@@ -278,7 +280,8 @@ python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
 python-lsp-server @ file:///croot/python-lsp-server_1743715803089/work
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 pytoolconfig @ file:///croot/pytoolconfig_1701728692402/work
-pytz @ file:///croot/pytz_1713974312559/work
+pytups==0.88.1
+pytz==2023.4
 pyuca @ file:///croot/pyuca_1726251419336/work
 pyviz_comms @ file:///croot/pyviz_comms_1711136832766/work
 PyWavelets @ file:///croot/pywavelets_1737133681996/work
@@ -388,6 +391,7 @@ widgetsnbextension @ file:///croot/widgetsnbextension_1743512586740/work
 wrapt @ file:///croot/wrapt_1736540904746/work
 wurlitzer @ file:///work/perseverance-python-buildout/croot/wurlitzer_1698906481008/work
 xarray @ file:///croot/xarray_1734535778780/work
+XlsxWriter==3.2.3
 xyzservices @ file:///work/perseverance-python-buildout/croot/xyzservices_1698866513675/work
 yapf @ file:///croot/yapf_1708964320665/work
 yarl @ file:///croot/yarl_1732546845924/work

@@ -1,0 +1,65 @@
+MUNICIPIO
+REGIAO
+DT_NOTIFIC
+Ano da notificação
+Código do sexo
+Código da raça/cor
+Código de escolaridade
+Resultado do exame sorológico
+Resultado do exame de PCR
+Indicador de hospitalização
+Critério de confirmação
+Evolução do caso
+Presença de febre
+Presença de mialgia
+Presença de cefaleia
+Presença de exantema
+Presença de vômito
+Presença de náusea
+Presença de dor nas costas
+Presença de conjuntivite
+Presença de artrite
+Presença de artralgia
+Presença de petéquias
+Presença de leucopenia
+Presença de laço
+Presença de dor retroocular
+Presença de diabetes
+Presença de hematológico
+Presença de hepatopatia
+Presença de renal
+Presença de hipertensão
+Presença de ácido péptico
+Presença de autoimunidade
+Alarme de hipotensão
+Alarme de plaquetas
+Alarme de vômito
+Alarme de sangramento
+Alarme de hematoma
+ALRM_ABDOM
+ALRM_LETAR
+ALRM_HEPAT
+ALRM_LIQ
+GRAV_PULSO
+GRAV_CONV
+GRAV_ENCH
+GRAV_INSUF
+GRAV_TAQUI
+GRAV_EXTRE
+GRAV_HIPOT
+GRAV_HEMAT
+GRAV_MELEN
+GRAV_METRO
+GRAV_SANG
+GRAV_AST
+Gravidade de miocárdio
+Gravidade de nível de consciência
+Gravidade de órgão
+Manifestação de hemorragia
+Manifestação de epistaxe
+Manifestação na gengiva
+Manifestação de metrorragia
+Manifestação de petéquias
+Manifestação de hematúria
+Manifestação de sangramento
+Classificação final do caso

@@ -1,0 +1,513 @@
+Valores únicos da coluna 'MUNICIPIO':
+MUNICIPIO
+São Paulo                 368609
+Campinas                  217185
+São José do Rio Preto     211111
+Ribeirão Preto            157315
+Sorocaba                  133953
+                           ...  
+Monteiro Lobato               10
+Ribeira                        9
+Bom Sucesso de Itararé         6
+Barra do Chapéu                4
+Itaoca                         4
+Name: count, Length: 645, dtype: int64
+
+Valores únicos da coluna 'REGIAO':
+REGIAO
+Campinas                 833785
+São Paulo                750570
+São José do Rio Preto    502259
+Ribeirão Preto           391772
+São José dos Campos      354479
+Sorocaba                 291958
+Presidente Prudente      279599
+Marília                  213416
+Araçatuba                206638
+Araraquara               206509
+Bauru                    168303
+Name: count, dtype: int64
+
+Valores únicos da coluna 'DT_NOTIFIC':
+DT_NOTIFIC
+2015-03-23    16453
+2015-03-16    15521
+2015-03-30    14871
+2015-03-24    14568
+2015-03-17    14428
+              ...  
+2017-08-06       29
+2023-08-27       28
+2017-08-13       28
+2022-01-02       22
+2023-01-01       22
+Name: count, Length: 3654, dtype: int64
+
+Valores únicos da coluna 'Ano da notificação':
+Ano da notificação
+1970-01-01 00:00:00.000002015    1033068
+1970-01-01 00:00:00.000002019     719173
+1970-01-01 00:00:00.000002016     465550
+1970-01-01 00:00:00.000002020     397894
+1970-01-01 00:00:00.000002014     385116
+1970-01-01 00:00:00.000002022     351166
+1970-01-01 00:00:00.000002021     348847
+1970-01-01 00:00:00.000002023     337173
+1970-01-01 00:00:00.000002017      83995
+1970-01-01 00:00:00.000002018      76989
+1970-01-01 00:00:00.000002013        317
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Código do sexo':
+Código do sexo
+Feminino        2258480
+Masculino       1934798
+Sem Registro       6010
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Código da raça/cor':
+Código da raça/cor
+Branca          2254633
+Sem Registro    1113245
+Parda            653933
+Preta            148577
+Amarela           24584
+Indígena           4316
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Código de escolaridade':
+Código de escolaridade
+Ignorado                                                      1239166
+Sem Registro                                                   744418
+Ensino médio completo (antigo colegial ou 2° grau)             721506
+Não se aplica                                                  283736
+5ª à 8ª série incompleta do EF (antigo ginásio ou 1° grau)     252112
+Ensino médio incompleto (antigo colegial ou 2° grau)           243635
+Educação superior completa                                     214583
+Ensino fundamental completo (antigo ginásio ou 1° grau)        159383
+1ª a 4ª série incompleta do EF                                 153315
+4ª série completa do EF (antigo 1° grau)                        99776
+Educação superior incompleta                                    87658
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Resultado do exame sorológico':
+Resultado do exame sorológico
+Sem Registro    2716540
+Positivo         848127
+Negativo         621286
+Inconclusivo      13335
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Resultado do exame de PCR':
+Resultado do exame de PCR
+Não realizado    2645441
+Sem Registro     1546216
+Negativo            4983
+Positivo            1940
+Inconclusivo         708
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Indicador de hospitalização':
+Indicador de hospitalização
+Não hospitalizado    2711130
+Sem Registro         1307524
+Hospitalizado          93790
+Ignorado               86844
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Critério de confirmação':
+Critério de confirmação
+Laboratório        2174110
+Clínico            1839718
+Sem Registro        176509
+Em investigação       8951
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Evolução do caso':
+Evolução do caso
+cura                       3613468
+Sem Registro                421577
+ignorado                    157623
+óbito por outras causas       4549
+óbito pelo agravo             1839
+óbito em investigação          232
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de febre':
+Presença de febre
+Sim             1960372
+Sem Registro    1697694
+Não              541222
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de mialgia':
+Presença de mialgia
+Sim             1848827
+Sem Registro    1697694
+Não              652767
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de cefaleia':
+Presença de cefaleia
+Sim             1863968
+Sem Registro    1697694
+Não              637626
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de exantema':
+Presença de exantema
+Não             2043927
+Sem Registro    1697694
+Sim              457667
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de vômito':
+Presença de vômito
+Não             1989331
+Sem Registro    1697694
+Sim              512263
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de náusea':
+Presença de náusea
+Sem Registro    1697694
+Não             1600541
+Sim              901053
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de dor nas costas':
+Presença de dor nas costas
+Sem Registro    1697694
+Não             1691838
+Sim              809756
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de conjuntivite':
+Presença de conjuntivite
+Não             2411016
+Sem Registro    1697694
+Sim               90578
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de artrite':
+Presença de artrite
+Não             2193096
+Sem Registro    1697694
+Sim              308498
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de artralgia':
+Presença de artralgia
+Não             2075515
+Sem Registro    1697694
+Sim              426079
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de petéquias':
+Presença de petéquias
+Não             2269815
+Sem Registro    1697694
+Sim              231779
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de leucopenia':
+Presença de leucopenia
+Não             2356292
+Sem Registro    1697694
+Sim              145302
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de laço':
+Presença de laço
+Não             2369796
+Sem Registro    1697694
+Sim              131798
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de dor retroocular':
+Presença de dor retroocular
+Sem Registro    1697694
+Não             1661053
+Sim              840541
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de diabetes':
+Presença de diabetes
+Não             2402530
+Sem Registro    1697694
+Sim               99064
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de hematológico':
+Presença de hematológico
+Não             2487621
+Sem Registro    1697694
+Sim               13973
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de hepatopatia':
+Presença de hepatopatia
+Não             2487930
+Sem Registro    1697694
+Sim               13664
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de renal':
+Presença de renal
+Não             2489104
+Sem Registro    1697694
+Sim               12490
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de hipertensão':
+Presença de hipertensão
+Não             2276299
+Sem Registro    1697694
+Sim              225295
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de ácido péptico':
+Presença de ácido péptico
+Não             2487888
+Sem Registro    1697694
+Sim               13706
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Presença de autoimunidade':
+Presença de autoimunidade
+Não             2487413
+Sem Registro    1697694
+Sim               14181
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Alarme de hipotensão':
+Alarme de hipotensão
+Sem Registro    4181987
+Não               14263
+Sim                3038
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Alarme de plaquetas':
+Alarme de plaquetas
+Sem Registro    4181952
+Sim               10307
+Não                7029
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Alarme de vômito':
+Alarme de vômito
+Sem Registro    4182016
+Não               14731
+Sim                2541
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Alarme de sangramento':
+Alarme de sangramento
+Sem Registro    4182012
+Não               13767
+Sim                3509
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Alarme de hematoma':
+Alarme de hematoma
+Sem Registro    4182068
+Não               15590
+Sim                1630
+Name: count, dtype: int64
+
+Valores únicos da coluna 'ALRM_ABDOM':
+ALRM_ABDOM
+Sem Registro    4181947
+Não               10589
+Sim                6752
+Name: count, dtype: int64
+
+Valores únicos da coluna 'ALRM_LETAR':
+ALRM_LETAR
+Sem Registro    4182054
+Não               15013
+Sim                2221
+Name: count, dtype: int64
+
+Valores únicos da coluna 'ALRM_HEPAT':
+ALRM_HEPAT
+Sem Registro    4182069
+Não               16826
+Sim                 393
+Name: count, dtype: int64
+
+Valores únicos da coluna 'ALRM_LIQ':
+ALRM_LIQ
+Sem Registro    4182064
+Não               16509
+Sim                 715
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_PULSO':
+GRAV_PULSO
+Sem Registro    4197494
+Não                1335
+Sim                 459
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_CONV':
+GRAV_CONV
+Sem Registro    4197499
+Não                1530
+Sim                 259
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_ENCH':
+GRAV_ENCH
+Sem Registro    4197502
+Não                1445
+Sim                 341
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_INSUF':
+GRAV_INSUF
+Sem Registro    4197499
+Não                1286
+Sim                 503
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_TAQUI':
+GRAV_TAQUI
+Sem Registro    4197483
+Não                1103
+Sim                 702
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_EXTRE':
+GRAV_EXTRE
+Sem Registro    4197499
+Não                1093
+Sim                 696
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_HIPOT':
+GRAV_HIPOT
+Sem Registro    4197496
+Não                1251
+Sim                 541
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_HEMAT':
+GRAV_HEMAT
+Sem Registro    4197501
+Não                1579
+Sim                 208
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_MELEN':
+GRAV_MELEN
+Sem Registro    4197500
+Não                1530
+Sim                 258
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_METRO':
+GRAV_METRO
+Sem Registro    4197501
+Não                1724
+Sim                  63
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_SANG':
+GRAV_SANG
+Sem Registro    4197505
+Não                1719
+Sim                  64
+Name: count, dtype: int64
+
+Valores únicos da coluna 'GRAV_AST':
+GRAV_AST
+Sem Registro    4197502
+Não                1663
+Sim                 123
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Gravidade de miocárdio':
+Gravidade de miocárdio
+Sem Registro    4197505
+Não                1701
+Sim                  82
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Gravidade de nível de consciência':
+Gravidade de nível de consciência
+Sem Registro    4197499
+Não                1106
+Sim                 683
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Gravidade de órgão':
+Gravidade de órgão
+Sem Registro    4197502
+Não                1464
+Sim                 322
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de hemorragia':
+Manifestação de hemorragia
+Sem Registro     4198773
+Não                  363
+Sim                  130
+Não Realizado         22
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de epistaxe':
+Manifestação de epistaxe
+Sem Registro     4199157
+Não                   95
+Sim                   29
+Não Realizado          7
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação na gengiva':
+Manifestação na gengiva
+Sem Registro     4199157
+Não                   91
+Sim                   33
+Não Realizado          7
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de metrorragia':
+Manifestação de metrorragia
+Sem Registro     4199157
+Não                  105
+Sim                   18
+Não Realizado          8
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de petéquias':
+Manifestação de petéquias
+Sem Registro     4199157
+Sim                   73
+Não                   53
+Não Realizado          5
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de hematúria':
+Manifestação de hematúria
+Sem Registro     4199157
+Não                  107
+Sim                   16
+Não Realizado          8
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Manifestação de sangramento':
+Manifestação de sangramento
+Sem Registro     4199157
+Não                   97
+Sim                   27
+Não Realizado          7
+Name: count, dtype: int64
+
+Valores únicos da coluna 'Classificação final do caso':
+Classificação final do caso
+Dengue          2503955
+Não-Dengue      1692700
+Sem Registro       2633
+Name: count, dtype: int64
+
