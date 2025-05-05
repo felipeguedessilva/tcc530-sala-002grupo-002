@@ -15,9 +15,9 @@ Membros do Grupo:
 
 Para facilitar a navegação nos Notebooks que contém as Análises de Dados, bem como a aplicação dos Modelos de Classificação e Séries Temporais, criamos a seguinte biblioteca de links:
 
-[1. Leitura e Junção de Dados](notebooks/tcc_univesp_not1.ipynb)
-[2. Manipulação de Dados e Criação de Data Sets do Projeto](notebooks/tcc_univesp_not2.ipynb)
-[3. Exploração de Dados](notebooks/tcc_univesp_not5.ipynb)
-[4. ML - Classificação](notebooks/tcc_univesp_not3.ipynb)
-[5. ML - Séries Temporais](notebooks/tcc_univesp_not5.ipynb)
+[1. Leitura e Junção de Dados](notebooks/tcc_univesp_not1.ipynb) \
+[2. Manipulação de Dados e Criação de Data Sets do Projeto](notebooks/tcc_univesp_not2.ipynb) \
+[3. Exploração de Dados](notebooks/tcc_univesp_not5.ipynb) \
+[4. ML - Classificação](notebooks/tcc_univesp_not3.ipynb) \
+[5. ML - Séries Temporais](notebooks/tcc_univesp_not5.ipynb) \
 
