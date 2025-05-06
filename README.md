@@ -19,5 +19,6 @@ Para facilitar a navegação nos Notebooks que contém as Análises de Dados, be
 [2. Manipulação de Dados e Criação de Data Sets do Projeto](notebooks/tcc_univesp_not2.ipynb) \
 [3. Exploração de Dados](notebooks/tcc_univesp_not5.ipynb) \
 [4. ML - Classificação](notebooks/tcc_univesp_not3.ipynb) \
-[5. ML - Séries Temporais](notebooks/tcc_univesp_not5.ipynb)
+[5. ML - Séries Temporais](notebooks/tcc_univesp_not5.ipynb) \
+[6. Treinamento Específico para o modelo de ML de CLassificação](notebooks/tcc_univesp_not31.ipynb) \
 
