@@ -15,6 +15,7 @@ Membros do Grupo:
 
 Para facilitar a navegação nos Notebooks que contém as Análises de Dados, bem como a aplicação dos Modelos de Classificação e Séries Temporais, criamos a seguinte biblioteca de links:
 
+[0. Diretório de Dados](https://drive.google.com/drive/folders/1mlOkkEhhe9FNB8aKgj_s9DC--L_cD-9F?usp=drive_link) \
 [1. Leitura e Junção de Dados](notebooks/tcc_univesp_not1.ipynb) \
 [2. Manipulação de Dados e Criação de Data Sets do Projeto](notebooks/tcc_univesp_not2.ipynb) \
 [3. Exploração de Dados](notebooks/tcc_univesp_not5.ipynb) \
